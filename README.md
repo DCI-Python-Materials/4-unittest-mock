@@ -22,5 +22,5 @@ will simulate that the path of the file is right and run rm function to check if
 
 run test with more details
 
-   python3 -m unittest -v no_mocktest.py
-   python3 -m unittest -v mock_test.py
+   python3 -m unittest -v no_mocktest.py 
+   python3 -m unittest -v mock_test.py 
