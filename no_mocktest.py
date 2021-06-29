@@ -1,5 +1,5 @@
 import unittest
-from app import rm, kill_firefox
+from app import rm
 import os
 
 class RmTestCase(unittest.TestCase):
